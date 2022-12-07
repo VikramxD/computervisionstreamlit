@@ -1,5 +1,4 @@
 mediapipe
-mediapipe-silicon
 numpy
 opencv-python
 Pillow
